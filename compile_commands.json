@@ -1,8 +1,0 @@
-[
-{
-  "directory": "F:/MyProjects/little_reflect/build",
-  "command": "E:/mingw/mingw64/bin/c++.exe   -g -std=gnu++2a -o CMakeFiles/app.dir/test.cpp.obj -c F:/MyProjects/little_reflect/test.cpp",
-  "file": "F:/MyProjects/little_reflect/test.cpp",
-  "output": "CMakeFiles/app.dir/test.cpp.obj"
-}
-]
